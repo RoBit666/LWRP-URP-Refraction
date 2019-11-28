@@ -3,7 +3,7 @@ LWRP Refraction Node
 
 <p align="left"> <img src="https://github.com/RoBit666/LWRP-Refraction/blob/master/readme-img/GIF.gif"> </p>
 
-Function implementation [refract] in SubGraph for ShaderGraph(LWRP).
+Function implementation [refract] in SubGraph for ShaderGraph(LWRP/URP).
 
 Example
 -------
