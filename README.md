@@ -1,4 +1,4 @@
-LWRP Refraction Node
+LWRP/URP Refraction Node(DEPRECATED)
 ====================
 
 <p align="left"> <img src="https://github.com/RoBit666/LWRP-Refraction/blob/master/readme-img/GIF.gif"> </p>
